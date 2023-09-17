@@ -12,6 +12,6 @@ package com.mycompany.csc325_demo1;
 public class CSC325_Demo1 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("hakim");
     }
 }
