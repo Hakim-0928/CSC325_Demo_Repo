@@ -9,5 +9,19 @@ package com.mycompany.csc325_demo1;
  * @author hakimel-mobasher
  */
 public class NewClass {
+    private int age;
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+        
+    }
+
+    public NewClass(int age) {
+        this.age = age;
+    }
     
 }
